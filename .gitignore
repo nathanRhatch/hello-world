@@ -1,0 +1,15 @@
+# Ignore all
+*
+Ignore
+.DS_Store
+.idea
+.ipynb_checkpoints
+# Unignore all with extensions
+!*.py*
+!*.ipynb*
+!*.gitignore*
+!*.yml*
+!*.txt*
+!*README.md*
+# Unignore all dirs
+!*/
